@@ -3,3 +3,5 @@
 
 # Uncomment the following to increase the number of threads used to compile.
 # export MAKEOPTS="-j16"
+
+export FEATURES+="binpkg-multi-instance"
