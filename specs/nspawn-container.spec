@@ -1,8 +1,8 @@
 subarch: amd64
 target: stage3
 
-version_stamp: 2021.01
-snapshot: 2021.01
+version_stamp: 2021.01.24
+snapshot: 2021.01.24
 rel_type: nspawn-container
 
 portage_confdir: /etc/catalyst/confdir
